@@ -1,0 +1,153 @@
+C:\Users\admin\source\repos\BigProject\BigProject\bin\Debug\BigProject.exe.config
+C:\Users\admin\source\repos\BigProject\BigProject\bin\Debug\BigProject.exe
+C:\Users\admin\source\repos\BigProject\BigProject\bin\Debug\BigProject.pdb
+C:\Users\admin\source\repos\BigProject\BigProject\obj\Debug\BigProject.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\BigProject\BigProject\obj\Debug\BigProject.Properties.Resources.resources
+C:\Users\admin\source\repos\BigProject\BigProject\obj\Debug\BigProject.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\BigProject\BigProject\obj\Debug\BigProject.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\BigProject\BigProject\obj\Debug\BigProject.exe
+C:\Users\admin\source\repos\BigProject\BigProject\obj\Debug\BigProject.pdb
+C:\Users\admin\source\repos\BigProject\BigProject\obj\Debug\BigProject.MainForm.resources
+C:\Users\admin\source\repos\BigProject\BigProject\obj\Debug\BigProject.LoginForm.resources
+C:\Users\admin\source\repos\BigProject\BigProject\bin\Debug\Guna.UI2.dll
+C:\Users\admin\source\repos\BigProject\BigProject\obj\Debug\BigProject.csproj.CopyComplete
+C:\Users\admin\source\repos\BigProject\BigProject\obj\Debug\BigProject.GUI.DiemForm.resources
+C:\Users\admin\source\repos\BigProject\BigProject\obj\Debug\BigProject.GUI.FormLop.resources
+C:\Users\admin\source\repos\BigProject\BigProject\obj\Debug\BigProject.GUI.FormHocphan.resources
+C:\Users\admin\source\repos\BigProject\BigProject\obj\Debug\BigProject.GUI.FormGiangvien.resources
+C:\Users\admin\source\repos\BigProject\BigProject\obj\Debug\BigProject.GUI.FormSinhvien.resources
+C:\Users\admin\source\repos\BigProject\BigProject\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\admin\source\repos\BigProject\BigProject\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\admin\source\repos\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\admin\source\repos\BigProject\BigProject\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\admin\source\repos\BigProject\BigProject\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\admin\source\repos\BigProject\BigProject\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\admin\source\repos\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\admin\source\repos\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\admin\source\repos\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\admin\source\repos\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\admin\source\repos\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\admin\source\repos\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\admin\source\repos\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\admin\source\repos\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\admin\source\repos\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\admin\source\repos\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\admin\source\repos\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\admin\source\repos\BigProject\BigProject\bin\Debug\stdole.dll
+C:\Users\admin\source\repos\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\admin\source\repos\BigProject\BigProject\obj\Debug\BigProject.GUI.ReportForm.resources
+C:\Users\admin\source\repos\BigProject\BigProject\obj\Debug\BigProject.GUI.ThongkeForm.resources
+C:\Users\admin\source\repos\BigProject\BigProject\obj\Debug\BigProject.GUI.GuiForStudents.FormMainSinhvien.resources
+C:\Users\admin\source\repos\BigProject\BigProject\obj\Debug\BigProject.GUI.GuiForStudents.FormShowThongtin.resources
+C:\Users\admin\source\repos\BigProject\BigProject\obj\Debug\BigProject.GUI.GuiForStudents.FormShowDiem.resources
+C:\Users\admin\source\repos\BigProject\BigProject\obj\Debug\BigProject.GUI.GuiForStudents.FormMainLogin.resources
+C:\Users\ASUS\Desktop\BigProject\BigProject\obj\Debug\BigProject.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\BigProject\BigProject\obj\Debug\BigProject.GUI.DiemForm.resources
+C:\Users\ASUS\Desktop\BigProject\BigProject\obj\Debug\BigProject.GUI.FormGiangvien.resources
+C:\Users\ASUS\Desktop\BigProject\BigProject\obj\Debug\BigProject.GUI.FormLop.resources
+C:\Users\ASUS\Desktop\BigProject\BigProject\obj\Debug\BigProject.GUI.FormHocphan.resources
+C:\Users\ASUS\Desktop\BigProject\BigProject\obj\Debug\BigProject.GUI.GuiForStudents.FormMainLogin.resources
+C:\Users\ASUS\Desktop\BigProject\BigProject\obj\Debug\BigProject.GUI.GuiForStudents.FormMainSinhvien.resources
+C:\Users\ASUS\Desktop\BigProject\BigProject\obj\Debug\BigProject.GUI.GuiForStudents.FormShowDiem.resources
+C:\Users\ASUS\Desktop\BigProject\BigProject\obj\Debug\BigProject.GUI.GuiForStudents.FormShowThongtin.resources
+C:\Users\ASUS\Desktop\BigProject\BigProject\obj\Debug\BigProject.LoginForm.resources
+C:\Users\ASUS\Desktop\BigProject\BigProject\obj\Debug\BigProject.MainForm.resources
+C:\Users\ASUS\Desktop\BigProject\BigProject\obj\Debug\BigProject.GUI.FormSinhvien.resources
+C:\Users\ASUS\Desktop\BigProject\BigProject\obj\Debug\BigProject.GUI.ReportForm.resources
+C:\Users\ASUS\Desktop\BigProject\BigProject\obj\Debug\BigProject.GUI.ThongkeForm.resources
+C:\Users\ASUS\Desktop\BigProject\BigProject\obj\Debug\BigProject.Properties.Resources.resources
+C:\Users\ASUS\Desktop\BigProject\BigProject\obj\Debug\BigProject.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\BigProject\BigProject\obj\Debug\BigProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BigProject\BigProject\obj\Debug\BigProject.exe
+C:\Users\ASUS\Desktop\BigProject\BigProject\obj\Debug\BigProject.pdb
+C:\Users\ASUS\Desktop\BigProject\BigProject\bin\Debug\BigProject.exe.config
+C:\Users\ASUS\Desktop\BigProject\BigProject\bin\Debug\BigProject.exe
+C:\Users\ASUS\Desktop\BigProject\BigProject\bin\Debug\BigProject.pdb
+C:\Users\ASUS\Desktop\BigProject\BigProject\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\Desktop\BigProject\BigProject\bin\Debug\stdole.dll
+C:\Users\ASUS\Desktop\BigProject\BigProject\obj\Debug\BigProject.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\bin\Debug\BigProject.exe.config
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\bin\Debug\BigProject.exe
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\bin\Debug\BigProject.pdb
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\bin\Debug\stdole.dll
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\obj\Debug\BigProject.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\obj\Debug\BigProject.GUI.DiemForm.resources
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\obj\Debug\BigProject.GUI.FormGiangvien.resources
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\obj\Debug\BigProject.GUI.FormLop.resources
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\obj\Debug\BigProject.GUI.FormHocphan.resources
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\obj\Debug\BigProject.GUI.GuiForStudents.FormMainLogin.resources
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\obj\Debug\BigProject.GUI.GuiForStudents.FormMainSinhvien.resources
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\obj\Debug\BigProject.GUI.GuiForStudents.FormShowDiem.resources
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\obj\Debug\BigProject.GUI.GuiForStudents.FormShowThongtin.resources
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\obj\Debug\BigProject.LoginForm.resources
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\obj\Debug\BigProject.MainForm.resources
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\obj\Debug\BigProject.GUI.FormSinhvien.resources
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\obj\Debug\BigProject.GUI.ReportForm.resources
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\obj\Debug\BigProject.GUI.ThongkeForm.resources
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\obj\Debug\BigProject.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\obj\Debug\BigProject.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\obj\Debug\BigProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\obj\Debug\BigProject.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\obj\Debug\BigProject.exe
+C:\Users\ASUS\Desktop\Nam 2\Lap trinh .Net with C#\BigProject\BigProject\obj\Debug\BigProject.pdb
+E:\Lập TrìnhdotNET\BigProject\BigProject\bin\Debug\BigProject.exe.config
+E:\Lập TrìnhdotNET\BigProject\BigProject\bin\Debug\BigProject.exe
+E:\Lập TrìnhdotNET\BigProject\BigProject\bin\Debug\BigProject.pdb
+E:\Lập TrìnhdotNET\BigProject\BigProject\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Lập TrìnhdotNET\BigProject\BigProject\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Lập TrìnhdotNET\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Lập TrìnhdotNET\BigProject\BigProject\bin\Debug\CrystalDecisions.Shared.dll
+E:\Lập TrìnhdotNET\BigProject\BigProject\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Lập TrìnhdotNET\BigProject\BigProject\bin\Debug\Guna.UI2.dll
+E:\Lập TrìnhdotNET\BigProject\BigProject\bin\Debug\ShockwaveFlashObjects.dll
+E:\Lập TrìnhdotNET\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Lập TrìnhdotNET\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Lập TrìnhdotNET\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Lập TrìnhdotNET\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Lập TrìnhdotNET\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Lập TrìnhdotNET\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Lập TrìnhdotNET\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Lập TrìnhdotNET\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Lập TrìnhdotNET\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Lập TrìnhdotNET\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Lập TrìnhdotNET\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Lập TrìnhdotNET\BigProject\BigProject\bin\Debug\stdole.dll
+E:\Lập TrìnhdotNET\BigProject\BigProject\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Lập TrìnhdotNET\BigProject\BigProject\obj\Debug\BigProject.csproj.AssemblyReference.cache
+E:\Lập TrìnhdotNET\BigProject\BigProject\obj\Debug\BigProject.GUI.DiemForm.resources
+E:\Lập TrìnhdotNET\BigProject\BigProject\obj\Debug\BigProject.GUI.FormGiangvien.resources
+E:\Lập TrìnhdotNET\BigProject\BigProject\obj\Debug\BigProject.GUI.FormLop.resources
+E:\Lập TrìnhdotNET\BigProject\BigProject\obj\Debug\BigProject.GUI.FormHocphan.resources
+E:\Lập TrìnhdotNET\BigProject\BigProject\obj\Debug\BigProject.GUI.GuiForStudents.FormMainLogin.resources
+E:\Lập TrìnhdotNET\BigProject\BigProject\obj\Debug\BigProject.GUI.GuiForStudents.FormMainSinhvien.resources
+E:\Lập TrìnhdotNET\BigProject\BigProject\obj\Debug\BigProject.GUI.GuiForStudents.FormShowDiem.resources
+E:\Lập TrìnhdotNET\BigProject\BigProject\obj\Debug\BigProject.GUI.GuiForStudents.FormShowThongtin.resources
+E:\Lập TrìnhdotNET\BigProject\BigProject\obj\Debug\BigProject.LoginForm.resources
+E:\Lập TrìnhdotNET\BigProject\BigProject\obj\Debug\BigProject.MainForm.resources
+E:\Lập TrìnhdotNET\BigProject\BigProject\obj\Debug\BigProject.GUI.FormSinhvien.resources
+E:\Lập TrìnhdotNET\BigProject\BigProject\obj\Debug\BigProject.GUI.ReportForm.resources
+E:\Lập TrìnhdotNET\BigProject\BigProject\obj\Debug\BigProject.GUI.ThongkeForm.resources
+E:\Lập TrìnhdotNET\BigProject\BigProject\obj\Debug\BigProject.Properties.Resources.resources
+E:\Lập TrìnhdotNET\BigProject\BigProject\obj\Debug\BigProject.csproj.GenerateResource.cache
+E:\Lập TrìnhdotNET\BigProject\BigProject\obj\Debug\BigProject.csproj.CoreCompileInputs.cache
+E:\Lập TrìnhdotNET\BigProject\BigProject\obj\Debug\BigProject.csproj.CopyComplete
+E:\Lập TrìnhdotNET\BigProject\BigProject\obj\Debug\BigProject.exe
+E:\Lập TrìnhdotNET\BigProject\BigProject\obj\Debug\BigProject.pdb
